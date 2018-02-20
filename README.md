@@ -1,4 +1,4 @@
 # linux-base
 
-TODO: Enter the cookbook description here.
+This cookbook is Glenville Fanoo's learning environment. 
 

@@ -1,6 +1,6 @@
 name 'linux-base'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Glenville Fanoo'
+maintainer_email 'glenville.fanoo@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures linux-base'
 long_description 'Installs/Configures linux-base'
